@@ -1,5 +1,5 @@
 # symfony
-Blog
+Runtrack Blog - 
 Il y a 2 dossier, 
 -> 1 (symfony_error)avec mon blocage/erreur non-corrigé 
 -> 1 (symfony.  fichier racine) avec uniquement l'intégration de l'identitée graphique que j'avais pensé pour le blog et sa partie Login,sign-up...

@@ -32,3 +32,4 @@ Process:
 ● Utiliser/Lancer serveur php
 ● Utiliser les dernières version de : Symfony, php et Composer 
 ● Root vers fichier Templates->twig
+● Configurez symfony
